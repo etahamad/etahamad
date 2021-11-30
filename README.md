@@ -1,4 +1,4 @@
-## Hey, Omar's here!
+## Hey there!
 
 [<img align="right" width="50%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
