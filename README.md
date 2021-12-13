@@ -12,11 +12,13 @@ I'm a CS Student at Future Academy, Egypt.
 
 -   Tools that i use:
     - GCP
-    - Sublime Text
+    - Linux
     - VSCode
-    - GitHub Copilot
-    - PowerToys
     - Docker
+    - JetBrains IDE's
+    - GitHub Copilot
+    - Sublime Text
+    - PowerToys
     - Telegram API
     - Notion API
     - GitHub Actions
