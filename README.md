@@ -4,7 +4,22 @@
 
 I'm a CS Student at Future Academy, Egypt.
 
--   :hammer_and_pick: C / C++ / Bash / Linux Kernel / Android Framework / DevOps
--   :pencil2: GCP / Sublime Text / PowerToys / Docker / Telegram API / Notion API / GitHub Actions / Gitpod WorkSpace
--   :seedling: 3rd year CS student & doing some robotics stuff
--   :computer: 80 vCPUs - 80GB RAM - 2TB SSD
+-   What i can do:
+    - DevOps - Scripting (Automation)
+    - Problem solving
+    - Build [AOSP](https://source.android.com/).
+    - Build [Linux Kernel](https://github.com/etahamad/kernel_xiaomi_lavender) CI/CD tools applied.
+
+-   Tools that i use:
+    - GCP
+    - Sublime Text
+    - VSCode
+    - GitHub Copilot
+    - PowerToys
+    - Docker
+    - Telegram API
+    - Notion API
+    - GitHub Actions
+    - Gitpod WorkSpace
+
+-   My specs:  80 vCPUs - 80GB RAM - 2TB SSD
