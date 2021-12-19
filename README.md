@@ -1,7 +1,5 @@
 ## It's me, Omar!
 
-[<img align="right" width="50%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
-
 I'm a CS Student at Future Academy, Egypt.
 
 -   What i can do:
