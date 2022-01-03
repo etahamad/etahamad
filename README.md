@@ -3,23 +3,12 @@
 I'm a CS Student at Future Academy, Egypt.
 
 -   What i can do:
-    - DevOps - Scripting (Automation)
-    - Problem solving
-    - Build [AOSP](https://source.android.com/).
-    - Build [Linux Kernel](https://github.com/etahamad/kernel_xiaomi_lavender) CI/CD tools applied.
-
--   Tools that i use:
-    - GCP
-    - Linux
-    - VSCode
-    - Docker
-    - JetBrains IDE's
-    - GitHub Copilot
-    - Sublime Text
-    - PowerToys
-    - Telegram API
-    - Notion API
-    - GitHub Actions
-    - Gitpod WorkSpace
+    - DevOps - Scripting (Automation).
+        - Implmenting CI/CD in your projects using any service ex. GitHub Actions // AWS // GCP // Jenkins // CircleCI.
+        - Making you a *system*, not just some scripts.
+    - Problem solving.
+        - revise > evaluate > tweak.
+    - Build and Merge [AOSP](https://source.android.com/) and Linux Kernels Updates.
+        - Was *and still* playing around with android source since 2019.
 
 -   My specs:  80 vCPUs - 80GB RAM - 2TB SSD
