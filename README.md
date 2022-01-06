@@ -11,4 +11,6 @@ I'm a CS Student at Future Academy, Egypt.
     - Build and Merge [AOSP](https://source.android.com/) and Linux Kernels Updates.
         - Was *and still* playing around with android source since 2019.
 
--   My specs:  80 vCPUs - 80GB RAM - 2TB SSD
+-   My specs:
+    - [VM] 80 vCPUs - 80GB RAM - 2TB SSD
+    - [Laptop] 12 vCPUs - 16GB RAM - 1.265TB Hyperd
