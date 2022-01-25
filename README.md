@@ -1,6 +1,6 @@
 ## It's me, Omar!
 
-I'm a CS Student at Future Academy, Egypt.
+I'm a CS Student at Higher Future Institute, Egypt.
 
 -   What i can do:
     - DevOps - Scripting (Automation).
