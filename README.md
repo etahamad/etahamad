@@ -1,6 +1,6 @@
 ## It's me, Omar (aka età)!
 
-Currently studying Computer Science at Higher Future Institute, Egypt.
+Currently studying Computer Science at Higher Future Institute STS, Egypt.
 
 -   What i can do:
     - DevOps - Scripting (Automation).
