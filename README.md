@@ -1,4 +1,4 @@
-## It's me, Omar (aka età)!
+## 10% of what i'm doing:
 
 Currently studying Computer Science at Higher Future Institute STS, Egypt.
 
