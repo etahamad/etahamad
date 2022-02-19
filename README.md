@@ -12,5 +12,5 @@ Currently studying Computer Science at Higher Future Institute STS, Egypt.
         - Was *and still* playing around with android source since 2019.
 
 -   My specs:
-    - [VM] 80 vCPUs - 80GB RAM - 2TB SSD
+    - [VM] 128 vCPUs - 128GB RAM - 2TB SSD
     - [Laptop] 12 vCPUs - 16GB RAM - 1.265TB Hyperd
