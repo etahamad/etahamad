@@ -3,9 +3,9 @@
 Currently studying Computer Science at Higher Future Institute STS, Egypt.
 
 -   What i can do:
-    - DevOps - Scripting (Automation).
+    - DevOps.
+        - Building autonomous and decisive teams.
         - Implmenting CI/CD in your projects using any service ex. GitHub Actions // AWS // GCP // Jenkins // CircleCI.
-        - Making you a *system*, not just some scripts.
     - Problem solving.
         - revise > evaluate > tweak.
     - Build and Merge [AOSP](https://source.android.com/) and Linux Kernels Updates.
