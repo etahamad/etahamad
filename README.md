@@ -10,6 +10,8 @@ Currently studying Computer Science at Higher Future Institute STS, Egypt.
         - revise > evaluate > tweak.
     - Build and Merge [AOSP](https://source.android.com/) and Linux Kernels Updates.
         - Was *and still* playing around with android source since 2019.
+    - Robotics and Automated Systems
+        - I can build cars *wow*.
 
 -   My specs:
     - [VM] 128 vCPUs - 128GB RAM - 2TB SSD
