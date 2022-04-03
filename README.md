@@ -16,7 +16,3 @@ Currently studying Computer Science at Higher Future Institute STS, Egypt.
 -   My specs:
     - [VM] 128 vCPUs - 128GB RAM - 2TB SSD
     - [Laptop] 12 vCPUs - 16GB RAM - 1.265TB Hyperd
-
--   Character I like: IZZO
-<!-- credit: https://www.thelineanimation.com/work/izzo -->
-<img src="misc/izzo-bike-ad-anime-rounded.png" alt="izzo" style="width:65%">
