@@ -2,16 +2,7 @@
 
 Currently studying Computer Science at Higher Future Institute STS, Egypt.
 
--   What i can do:
-    - DevOps.
-        - Building autonomous and decisive teams.
-        - Implmenting CI/CD in your projects using any service ex. GitHub Actions // AWS // GCP // Jenkins // CircleCI.
-    - Problem solving.
-        - revise > evaluate > tweak.
-    - Build and Merge [AOSP](https://source.android.com/) and Linux Kernels Updates.
-        - Was *and still* playing around with android source since 2019.
-    - Robotics and Automated Systems.
-        - I can build cars *wow*.
+-   [Resume](docs/resume.md)
 
 -   My specs:
     - [VM] 128 vCPUs - 128GB RAM - 2TB SSD
