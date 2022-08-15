@@ -1,7 +1,12 @@
-## 10% of what i'm doing:
+<div align="center">
+  <h1>Hey, what's up?</h1>
 
-Currently studying Computer Science at Higher Future Institute STS, Egypt.
+<a href="https://t.me/etahamad"><img alt="Telegram" src="https://img.shields.io/badge/@etahamad-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 
-[Resume](docs/resume.md)
+<b>DevOps Engineer // Software Engineer</b>
+<br/>
 
-fyi: I don't use LinkedIn
+  <img src="https://skillicons.dev/icons?i=linux,gcp,jenkins,kubernetes,docker,nginx,git,vscode,javascript,py,bash" />
+  <br />
+  <br />
+</div>
