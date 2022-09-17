@@ -47,7 +47,7 @@ Have admin panel there, my current rule there is to sponsor the growing-up proje
 
 🐦 [Twitter](https://twitter.com/etahamed)
 
-📧 Mail: etahamad@icloud.com
+📧 E-Mail: omarh@duck.com
 
      Phone: +201015738110 // +201552945980
 
