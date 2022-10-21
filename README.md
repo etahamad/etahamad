@@ -6,7 +6,7 @@
 <b>DevOps Engineer // SRE</b>
 <br/>
 
-  <img src="https://skillicons.dev/icons?i=linux,gcp,jenkins,mysql,postgres,githubactions,kubernetes,docker,nginx,git,javascript,vscode,py,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,gcp,jenkins,maven,mysql,postgres,githubactions,kubernetes,docker,nginx,git,javascript,vscode,py,bash" />
   <br />
   <br />
 </div>
