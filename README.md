@@ -7,7 +7,7 @@
 <b>DevOps Engineer | Platform Engineer</b>
 <br/>
 
-  <img src="https://skillicons.dev/icons?i=linux,gcp,jenkins,maven,mysql,postgres,githubactions,kubernetes,docker,nginx,git,javascript,vscode,py,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,gcp,jenkins,maven,mysql,postgres,redis,githubactions,kubernetes,docker,nginx,git,javascript,go,vscode,py,bash" />
   <br />
   <br />
 </div>
